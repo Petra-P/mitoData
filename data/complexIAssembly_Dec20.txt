@@ -1,0 +1,19 @@
+Gene name	Protein Group Accessions	Protein names	Gene names	Length	Mass	Gene stable ID	HGNC ID
+ACAD9	Q9H845	"Complex I assembly factor ACAD9, mitochondrial (Acyl-CoA dehydrogenase family member 9) (ACAD-9) (EC 1.3.8.-)"	ACAD9	621	"68,760"	ENSG00000177646	HGNC:21497
+COA1	Q9GZY4	Cytochrome c oxidase assembly factor 1 homolog (Mitochondrial translation regulation assembly intermediate of cytochrome c oxidase protein of 15 kDa)	COA1 C7orf44 MITRAC15	146	"16,694"	ENSG00000106603	HGNC:21868
+DMAC1	Q96GE9	Distal membrane-arm assembly complex protein 1 (Transmembrane protein 261)	DMAC1 C9orf123 TMEM261	116	"12,257"	ENSG00000137038	HGNC:30536
+DMAC2	Q9NW81	Distal membrane-arm assembly complex protein 2 (ATP synthase subunit s-like protein)	DMAC2 ATP5SL	257	"29,267"	ENSG00000105341	HGNC:25496
+ECSIT	Q9BQ95	"Evolutionarily conserved signaling intermediate in Toll pathway, mitochondrial (Protein SITPEC)"	ECSIT	431	"49,148"	ENSG00000130159	HGNC:29548
+FOXRED1	Q96CU9	FAD-dependent oxidoreductase domain-containing protein 1 (EC 1.-.-.-)	FOXRED1 FP634	486	"53,812"	ENSG00000110074	HGNC:26927
+NDUFAF1	Q9Y375	"Complex I intermediate-associated protein 30, mitochondrial (NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 1)"	NDUFAF1 CIA30 CGI-65	327	"37,764"	ENSG00000137806	HGNC:18828
+NDUFAF2	Q8N183	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 2 (B17.2-like) (B17.2L) (Mimitin) (Myc-induced mitochondrial protein) (MMTN) (NDUFA12-like protein)	NDUFAF2 NDUFA12L	169	"19,856"	ENSG00000164182	HGNC:28086
+NDUFAF3	Q9BU61	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 3	NDUFAF3 C3orf60	184	"20,350"	ENSG00000178057	HGNC:29918
+NDUFAF4	Q9P032	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 4 (Hormone-regulated proliferation-associated protein of 20 kDa)	NDUFAF4 C6orf66 HRPAP20 HSPC125 My013	175	"20,266"	ENSG00000123545	HGNC:21034
+NDUFAF5	Q5TEU4	"Arginine-hydroxylase NDUFAF5, mitochondrial (EC 1.-.-.-) (NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 5) (Putative methyltransferase NDUFAF5) (EC 2.1.1.-)"	NDUFAF5 C20orf7	345	"38,918"	ENSG00000101247	HGNC:15899
+NDUFAF6	Q330K2	"NADH dehydrogenase (ubiquinone) complex I, assembly factor 6 (Putative phytoene synthase)"	NDUFAF6 C8orf38	333	"38,176"	ENSG00000156170	HGNC:28625
+NDUFAF7	Q7L592	"Protein arginine methyltransferase NDUFAF7, mitochondrial (EC 2.1.1.320) (NADH dehydrogenase [ubiquinone] complex I, assembly factor 7) (Protein midA homolog)"	NDUFAF7 C2orf56 PRO1853	441	"49,238"	ENSG00000003509	HGNC:28816
+NDUFAF8	A1L188	NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 8	NDUFAF8 C17orf89	74	"7,756"	ENSG00000224877	HGNC:33551
+NUBPL	Q8TB37	Iron-sulfur protein NUBPL (IND1 homolog) (Nucleotide-binding protein-like) (huInd1)	NUBPL C14orf127	319	"34,083"	ENSG00000151413	HGNC:20278
+TIMMDC1	Q9NPL8	"Complex I assembly factor TIMMDC1, mitochondrial (Protein M5-14) (Translocase of inner mitochondrial membrane domain-containing protein 1) (TIMM domain containing-protein 1)"	TIMMDC1 C3orf1 UNQ247/PRO284	285	"32,178"	ENSG00000113845	HGNC:1321
+TMEM126B	Q8IUX1	"Complex I assembly factor TMEM126B, mitochondrial (Transmembrane protein 126B)"	TMEM126B HT007	230	"25,943"	ENSG00000171204	HGNC:30883
+TMEM186	Q96B77	Transmembrane protein 186	TMEM186 C16orf51	213	"24,893"	ENSG00000184857	HGNC:24530
