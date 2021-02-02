@@ -1,0 +1,7 @@
+Gene name	Entry	Protein names	Gene names	Length	Mass	Gene stable ID	HGNC ID
+BCS1L	Q9Y276	Mitochondrial chaperone BCS1 (h-BCS1) (BCS1-like protein)	BCS1L BCS1	419	"47,534"	ENSG00000074582	HGNC:1020
+LYRM7	Q5U5X0	Complex III assembly factor LYRM7 (LYR motif-containing protein 7)	LYRM7 C5orf31 MZM1L	104	"11,955"	ENSG00000186687	HGNC:28072
+TTC19	Q6DKK2	"Tetratricopeptide repeat protein 19, mitochondrial (TPR repeat protein 19)"	TTC19	380	"42,457"	ENSG00000011295	HGNC:26006
+UQCC1	Q9NVA1	Ubiquinol-cytochrome-c reductase complex assembly factor 1 (Basic FGF-repressed Zic-binding protein) (bFGF-repressed Zic-binding protein) (bFZb) (Ubiquinol-cytochrome c reductase complex chaperone CBP3 homolog)	UQCC1 BZFB C20orf44 UQCC	299	"34,600"	ENSG00000101019	HGNC:15891
+UQCC2	Q9BRT2	Ubiquinol-cytochrome-c reductase complex assembly factor 2 (Breast cancer-associated protein SGA-81M) (Mitochondrial nucleoid factor 1) (Mitochondrial protein M19)	UQCC2 C6orf125 MNF1	126	"14,875"	ENSG00000137288	HGNC:21237
+UQCC3	Q6UW78	Ubiquinol-cytochrome-c reductase complex assembly factor 3 (Assembly factor CBP4 homolog)	UQCC3 C11orf83 UNQ655/PRO1286	93	"10,081"	ENSG00000204922	HGNC:34399

@@ -1,5 +1,0 @@
-Gene name	Protein Group Accessions	Protein names	Gene names	Length	Mass	Gene stable ID	HGNC ID
-SDHAF1	A6NFY7	"Succinate dehydrogenase assembly factor 1, mitochondrial (SDH assembly factor 1) (SDHAF1) (LYR motif-containing protein 8)"	SDHAF1 LYRM8	115	"12,806"	ENSG00000205138	HGNC:33867
-SDHAF2	Q9NX18	"Succinate dehydrogenase assembly factor 2, mitochondrial (SDH assembly factor 2) (SDHAF2)"	SDHAF2 C11orf79 PGL2 SDH5	166	"19,599"	ENSG00000154079	HGNC:20957
-SDHAF3	Q9NRP4	"Succinate dehydrogenase assembly factor 3, mitochondrial (SDH assembly factor 3) (SDHAF3)"	SDHAF3 ACN9 DC11	125	"14,652"	ENSG00000196636	HGNC:21752
-SDHAF4	Q5VUM1	"Succinate dehydrogenase assembly factor 4, mitochondrial (SDH assembly factor 4) (SDHAF4)"	SDHAF4 C6orf57	108	"12,213"	ENSG00000167985	HGNC:26034
