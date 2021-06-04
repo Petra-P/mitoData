@@ -1,21 +1,20 @@
-Gene name	Protein Group Accessions	Protein names	Gene names	Length	Mass	Module	Position within complex	Gene stable ID	HGNC ID
-COX4I1	P13073	"Cytochrome c oxidase subunit 4 isoform 1, mitochondrial (Cytochrome c oxidase polypeptide IV) (Cytochrome c oxidase subunit IV isoform 1) (COX IV-1)"	COX4I1 COX4	169	"19,577"	NA	AI	ENSG00000131143	HGNC:2265
-COX4I2	Q96KJ9	"Cytochrome c oxidase subunit 4 isoform 2, mitochondrial (Cytochrome c oxidase subunit IV isoform 2) (COX IV-2)"	COX4I2 COX4L2	171	"20,010"	NA	AI	ENSG00000131055	HGNC:16232
-COX5A	P20674	"Cytochrome c oxidase subunit 5A, mitochondrial (Cytochrome c oxidase polypeptide Va)"	COX5A	150	"16,762"	NA	AI	ENSG00000178741	HGNC:2267
-COX5B	P10606	"Cytochrome c oxidase subunit 5B, mitochondrial (Cytochrome c oxidase polypeptide Vb)"	COX5B	129	"13,696"	CO2_module	NA	ENSG00000135940	HGNC:2269
-COX6A1	P12074	"Cytochrome c oxidase subunit 6A1, mitochondrial (Cytochrome c oxidase polypeptide VIa-liver) (Cytochrome c oxidase subunit VIA-liver) (COX VIa-L)"	COX6A1 COX6AL	109	"12,155"	CO3_module	NA	ENSG00000111775	HGNC:2277
-COX6A2	Q02221	"Cytochrome c oxidase subunit 6A2, mitochondrial (Cytochrome c oxidase polypeptide VIa-heart) (COXVIAH) (Cytochrome c oxidase subunit VIA-muscle) (COX VIa-M)"	COX6A2 COX6A COX6AH	97	"10,815"	CO3_module	NA	ENSG00000156885	HGNC:2279
-COX6B1	P14854	Cytochrome c oxidase subunit 6B1 (Cytochrome c oxidase subunit VIb isoform 1) (COX VIb-1)	COX6B1 COX6B	86	"10,192"	CO3_module	NA	ENSG00000126267	HGNC:2280
-COX6B2	Q6YFQ2	"Cytochrome c oxidase subunit 6B2 (Cancer/testis antigen 59) (CT59) (Cytochrome c oxidase subunit VIb isoform 2) (COX VIb-2) (Cytochrome c oxidase subunit VIb, testis-specific isoform)"	COX6B2	88	"10,529"	CO3_module	NA	ENSG00000160471	HGNC:24380
-COX6C	P09669	Cytochrome c oxidase subunit 6C (Cytochrome c oxidase polypeptide VIc)	COX6C	75	"8,781"	CO2_module	NA	ENSG00000164919	HGNC:2285
-COX7A1	P24310	"Cytochrome c oxidase subunit 7A1, mitochondrial (Cytochrome c oxidase subunit VIIa-heart) (Cytochrome c oxidase subunit VIIa-H) (Cytochrome c oxidase subunit VIIa-muscle) (Cytochrome c oxidase subunit VIIa-M)"	COX7A1 COX7AH	79	"9,118"	CO3_module	NA	ENSG00000161281	HGNC:2287
-COX7A2	P14406	"Cytochrome c oxidase subunit 7A2, mitochondrial (Cytochrome c oxidase subunit VIIa-liver/heart) (Cytochrome c oxidase subunit VIIa-L) (Cytochrome c oxidase subunit VIIaL)"	COX7A2 COX7AL	83	"9,396"	CO3_module	NA	ENSG00000112695	HGNC:2288
-COX7B	P24311	"Cytochrome c oxidase subunit 7B, mitochondrial (Cytochrome c oxidase polypeptide VIIb)"	COX7B	80	"9,161"	CO2_module	NA	ENSG00000131174	HGNC:2291
-COX7B2	Q8TF08	"Cytochrome c oxidase subunit 7B2, mitochondrial (Cytochrome c oxidase polypeptide VIIb2)"	COX7B2	81	"9,077"	CO2_module	NA	ENSG00000170516	HGNC:24381
-COX7C	P15954	"Cytochrome c oxidase subunit 7C, mitochondrial (Cytochrome c oxidase polypeptide VIIc)"	COX7C	63	"7,246"	CO2_module	NA	ENSG00000127184	HGNC:2292
-COX8A	P10176	"Cytochrome c oxidase subunit 8A, mitochondrial (Cytochrome c oxidase polypeptide VIII-liver/heart) (Cytochrome c oxidase subunit 8-2)"	COX8A COX8 COX8L	69	"7,579"	CO2_module	NA	ENSG00000176340	HGNC:2294
-COX8C	Q7Z4L0	"Cytochrome c oxidase subunit 8C, mitochondrial (Cytochrome c oxidase polypeptide 8 isoform 3) (Cytochrome c oxidase polypeptide VIII isoform 3) (COX VIII-3) (Cytochrome c oxidase subunit 8-3) (COX8-3) (Cytochrome c oxidase subunit VIIIC)"	COX8C	72	"8,129"	NA	NA	ENSG00000187581	HGNC:24382
-MT-CO1	P00395	Cytochrome c oxidase subunit 1 (EC 7.1.1.9) (Cytochrome c oxidase polypeptide I)	MT-CO1 COI COXI MTCO1	513	"57,041"	CO1_module	COX_core	ENSG00000198804	HGNC:7419
-MT-CO2	P00403	Cytochrome c oxidase subunit 2 (EC 7.1.1.9) (Cytochrome c oxidase polypeptide II)	MT-CO2 COII COX2 COXII MTCO2	227	"25,565"	CO2_module	COX_core	ENSG00000198712	HGNC:7421
-MT-CO3	P00414	Cytochrome c oxidase subunit 3 (EC 7.1.1.9) (Cytochrome c oxidase polypeptide III)	MT-CO3 COIII COXIII MTCO3	261	"29,951"	CO3_module	COX_core	ENSG00000198938	HGNC:7422
-NDUFA4	O00483	Cytochrome c oxidase subunit NDUFA4 (Complex I-MLRQ) (CI-MLRQ) (NADH-ubiquinone oxidoreductase MLRQ subunit)	NDUFA4	81	"9,370"	CO3_module	NA	ENSG00000189043	HGNC:7687
+Gene name	Protein Group Accessions	Protein names	Gene names	Length	Mass	Module	Position within complex	Gene stable ID	HGNC ID	Order
+COX5A	P20674	"Cytochrome c oxidase subunit 5A, mitochondrial (Cytochrome c oxidase polypeptide Va)"	COX5A	150	"16,762"	NA	AI	ENSG00000178741	HGNC:2267	1
+COX4I1	P13073	"Cytochrome c oxidase subunit 4 isoform 1, mitochondrial (Cytochrome c oxidase polypeptide IV) (Cytochrome c oxidase subunit IV isoform 1) (COX IV-1)"	COX4I1 COX4	169	"19,577"	NA	AI	ENSG00000131143	HGNC:2265	2
+COX4I2	Q96KJ9	"Cytochrome c oxidase subunit 4 isoform 2, mitochondrial (Cytochrome c oxidase subunit IV isoform 2) (COX IV-2)"	COX4I2 COX4L2	171	"20,010"	NA	AI	ENSG00000131055	HGNC:16232	3
+MT-CO1	P00395	Cytochrome c oxidase subunit 1 (EC 7.1.1.9) (Cytochrome c oxidase polypeptide I)	MT-CO1 COI COXI MTCO1	513	"57,041"	CO1_module	COX_core	ENSG00000198804	HGNC:7419	4
+MT-CO2	P00403	Cytochrome c oxidase subunit 2 (EC 7.1.1.9) (Cytochrome c oxidase polypeptide II)	MT-CO2 COII COX2 COXII MTCO2	227	"25,565"	CO2_module	COX_core	ENSG00000198712	HGNC:7421	5
+COX5B	P10606	"Cytochrome c oxidase subunit 5B, mitochondrial (Cytochrome c oxidase polypeptide Vb)"	COX5B	129	"13,696"	CO2_module	NA	ENSG00000135940	HGNC:2269	6
+COX6C	P09669	Cytochrome c oxidase subunit 6C (Cytochrome c oxidase polypeptide VIc)	COX6C	75	"8,781"	CO2_module	NA	ENSG00000164919	HGNC:2285	7
+COX7B	P24311	"Cytochrome c oxidase subunit 7B, mitochondrial (Cytochrome c oxidase polypeptide VIIb)"	COX7B	80	"9,161"	CO2_module	NA	ENSG00000131174	HGNC:2291	8
+COX7B2	Q8TF08	"Cytochrome c oxidase subunit 7B2, mitochondrial (Cytochrome c oxidase polypeptide VIIb2)"	COX7B2	81	"9,077"	CO2_module	NA	ENSG00000170516	HGNC:24381	9
+COX7C	P15954	"Cytochrome c oxidase subunit 7C, mitochondrial (Cytochrome c oxidase polypeptide VIIc)"	COX7C	63	"7,246"	CO2_module	NA	ENSG00000127184	HGNC:2292	10
+COX8A	P10176	"Cytochrome c oxidase subunit 8A, mitochondrial (Cytochrome c oxidase polypeptide VIII-liver/heart) (Cytochrome c oxidase subunit 8-2)"	COX8A COX8 COX8L	69	"7,579"	CO2_module	NA	ENSG00000176340	HGNC:2294	11
+MT-CO3	P00414	Cytochrome c oxidase subunit 3 (EC 7.1.1.9) (Cytochrome c oxidase polypeptide III)	MT-CO3 COIII COXIII MTCO3	261	"29,951"	CO3_module	COX_core	ENSG00000198938	HGNC:7422	12
+COX6A1	P12074	"Cytochrome c oxidase subunit 6A1, mitochondrial (Cytochrome c oxidase polypeptide VIa-liver) (Cytochrome c oxidase subunit VIA-liver) (COX VIa-L)"	COX6A1 COX6AL	109	"12,155"	CO3_module	NA	ENSG00000111775	HGNC:2277	13
+COX6A2	Q02221	"Cytochrome c oxidase subunit 6A2, mitochondrial (Cytochrome c oxidase polypeptide VIa-heart) (COXVIAH) (Cytochrome c oxidase subunit VIA-muscle) (COX VIa-M)"	COX6A2 COX6A COX6AH	97	"10,815"	CO3_module	NA	ENSG00000156885	HGNC:2279	14
+COX6B1	P14854	Cytochrome c oxidase subunit 6B1 (Cytochrome c oxidase subunit VIb isoform 1) (COX VIb-1)	COX6B1 COX6B	86	"10,192"	CO3_module	NA	ENSG00000126267	HGNC:2280	15
+COX6B2	Q6YFQ2	"Cytochrome c oxidase subunit 6B2 (Cancer/testis antigen 59) (CT59) (Cytochrome c oxidase subunit VIb isoform 2) (COX VIb-2) (Cytochrome c oxidase subunit VIb, testis-specific isoform)"	COX6B2	88	"10,529"	CO3_module	NA	ENSG00000160471	HGNC:24380	16
+COX7A2	P14406	"Cytochrome c oxidase subunit 7A2, mitochondrial (Cytochrome c oxidase subunit VIIa-liver/heart) (Cytochrome c oxidase subunit VIIa-L) (Cytochrome c oxidase subunit VIIaL)"	COX7A2 COX7AL	83	"9,396"	CO3_module	NA	ENSG00000112695	HGNC:2288	17
+COX7A1	P24310	"Cytochrome c oxidase subunit 7A1, mitochondrial (Cytochrome c oxidase subunit VIIa-heart) (Cytochrome c oxidase subunit VIIa-H) (Cytochrome c oxidase subunit VIIa-muscle) (Cytochrome c oxidase subunit VIIa-M)"	COX7A1 COX7AH	79	"9,118"	CO3_module	NA	ENSG00000161281	HGNC:2287	18
+NDUFA4	O00483	Cytochrome c oxidase subunit NDUFA4 (Complex I-MLRQ) (CI-MLRQ) (NADH-ubiquinone oxidoreductase MLRQ subunit)	NDUFA4	81	"9,370"	CO3_module	NA	ENSG00000189043	HGNC:7687	19
